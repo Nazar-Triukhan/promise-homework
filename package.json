@@ -5,7 +5,7 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "dev": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /todolist-parsel/",
+    "build": "parcel build src/index.html --public-url /promise-homework/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
